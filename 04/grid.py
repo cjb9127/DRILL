@@ -20,6 +20,7 @@ while (index != 500):
         index2 += 100
     index += 100
     index2 = 0
+
     
     
 t.exitonclick()
