@@ -71,7 +71,6 @@ t.forward(60)
 t.pendown()
 t.forward(60)
 t.left(90)
-
 t.penup()
 t.forward(100)
 t.left(90)
