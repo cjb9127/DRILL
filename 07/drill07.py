@@ -1,7 +1,7 @@
 from pico2d import *
 import random
 KPU_WIDTH, KPU_HEIGHT = 640, 512
-
+# 
 def quit_events():
     global running
     global x, y
